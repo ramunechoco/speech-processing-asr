@@ -1,0 +1,119 @@
+ABANG    a b a ng
+ADAKALANYA    a d a k a l a ny a
+AKAN    a k a n
+AMBIL    a m b i l
+AMPAS    a m p a s
+ATAS    a t a s
+BADAN    b a d a n
+BASAH    b a s a h
+BEGAWAN    b e g a w a n
+BELAJAR    b e l a j a r
+BELAKANG    b e l a k a ng
+BELANG    b e l a ng
+BELATUNG    b e l a t u ng
+BENTANG    b e n t a ng
+BUALAN    b u w a l a n
+BUKA    b u k a
+BUKAN    b u k a n
+BUMBU    b u m b u
+COMPANG-CAMPING    c o m p a ng c a m p i ng
+CUCI    c u c i
+DALAM    d a l a m
+DAMPU    d a m p u
+DAN    d a n
+DAPUR    d a p u r
+DEPAN    d e p a n
+DERAS    d e r a s
+DI    d i
+FILTER    f i l t e r
+GALANG    g a l a ng
+GARA-GARA    g a r a g a r a
+GERAK    g e r a k
+HARGA    h a r g a
+HIDUP    h i d u p
+HIDUPKAN    h i d u p k a n
+IKUT    i k u t
+IMPAS    i m p a s
+JENDELA    j e n d eh l a
+KAMAR    k a m a r
+KAMU    k a m u
+KANTUK    k a n t u k
+KAPUR    k a p u r
+KELUARGA    k e l u a r g a
+KEMBALI    k e m b a l i
+KENANG    k e n a ng
+KERAS    k e r a s
+KIPAS    k i p a s
+LABIL    l a b i l
+LAMA    l a m a
+LAMPU    l a m p u
+LARA    l a r a
+LEMBU    l e m b u
+LEMBUR    l e m b u r
+LEPAS    l e p a s
+LIBAS    l i b a s
+LIMAS    l i m a s
+LIMPA    l i m p a
+LINDUR    l i n d u r
+LIPAN    l i p a n
+LIUR    l i u r
+LUPUT    l u p u t
+MAIN    m ay n
+MAINKAN    m ay n k a n
+MAKAN    m a k a n
+MAMPU    m a m p u
+MATI    m a t i
+MATIKAN    m a t i k a n
+MELINGKAR    m e l i ng k a r
+MEMAR    m e m a r
+MERAH    m eh r a h
+MUKA    m u k a
+MUNDUR    m u n d u r
+MUSIK    m u s i k
+NYALA    ny a l a
+NYALAKAN    ny a l a k a n
+NYAMAN    ny a m a n
+OLAHRAGA    o l a h r a g a
+PAGAR    p a g a r
+PEKAN    p e k a n
+PERAS    p e r a s
+PINTU    p i n t u
+PUNYA    p u ny a
+RAGA    r a g a
+RAMU    r a m u
+RUANG    r u a ng
+SADAR    s a d a r
+SADUR    s a d u r
+SAMBIL    s a m b i l
+SAYA    s a y a
+SEKARANG    s e k a r a ng
+SENANG    s e n a ng
+STABIL    s t a b i l
+SUCI    s u c i
+TAMU    t a m u
+TEKAN    t e k a n
+TELEVISI    t eh l e f i s i
+TERANG    t e r a ng
+TERAS    t eh r a s
+TIDUR    t i d u r
+TILANG    t i l a ng
+TIMUN    t i m u n
+TUKANG    t u k a ng
+TULANG    t u l a ng
+TUTUP    t u t u p
+TUTUR    t u t u r
+TV    t i f i
+UBUR    u b u r
+UBUR-UBUR    u b u r u b u r
+UFUK    u f u k
+UKUR    u k u r
+ULAR    u l a r
+ULAR-ULAR    u l a r u l a r
+ULAR-ULARAN    u l a r u l a r a n
+ULTRAVIOLET    u l t r a f i o l eh t
+VISI    f i s i
+VISUAL    f i s u a l
+WAKIL    w a k i l
+WAKTU    w a k t u
+WANITA    w a n i t a
+WARGA    w a r g a

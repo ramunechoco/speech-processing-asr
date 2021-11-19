@@ -1,0 +1,45 @@
+WARNING: no script file ../lexicon/indo_dict.txt.ded
+Missing Words
+-------------
+SENT-END
+SENT-START
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+indo_dict.tx       119        116        119        116
+        dict       116        116        116        116
+
+118 words required, 2 missing
+
+New Phone Usage Counts
+---------------------
+  1. a     :   130
+  2. b     :    23
+  3. ng    :    17
+  4. sp    :   116
+  5. d     :    17
+  6. k     :    33
+  7. l     :    42
+  8. ny    :     5
+  9. n     :    28
+ 10. m     :    36
+ 11. i     :    39
+ 12. p     :    23
+ 13. s     :    24
+ 14. t     :    30
+ 15. h     :     6
+ 16. e     :    27
+ 17. g     :    11
+ 18. w     :     6
+ 19. j     :     2
+ 20. r     :    38
+ 21. u     :    53
+ 22. c     :     5
+ 23. o     :     3
+ 24. f     :     7
+ 25. eh    :     5
+ 26. ay    :     2
+ 27. y     :     1
+
+Dictionary dict created
