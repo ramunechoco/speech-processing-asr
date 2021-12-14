@@ -17,124 +17,124 @@ Read 28 physical / 28 logical HMMs
 Label file will be used to align each file
 Aligning File: ../train/mfcc/sample1.mfc
 Created lattice with 6 nodes / 5 arcs from label file
-SENT-END NYALAKAN LAMPU RUANG TAMU SENT-END  ==  [224 frames] -62.1965 [Ac=-13932.0 LM=0.0] (Act=15.8)
+SENT-END NYALAKAN LAMPU RUANG TAMU SENT-END  ==  [224 frames] -61.5855 [Ac=-13795.1 LM=0.0] (Act=15.0)
 Aligning File: ../train/mfcc/sample2.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END NYALAKAN LAMPU KAMAR SENT-END  ==  [185 frames] -59.3830 [Ac=-10985.9 LM=0.0] (Act=14.3)
+SENT-END NYALAKAN LAMPU KAMAR SENT-END  ==  [185 frames] -59.0202 [Ac=-10918.7 LM=0.0] (Act=15.3)
 Aligning File: ../train/mfcc/sample3.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END MATIKAN KIPAS DI DAPUR TELEVISI RUANG MAKAN TERAS SENT-END  ==  [385 frames] -61.6933 [Ac=-23751.9 LM=0.0] (Act=14.2)
+SENT-END MATIKAN KIPAS DI DAPUR TELEVISI RUANG MAKAN TERAS SENT-END  ==  [385 frames] -61.6693 [Ac=-23742.7 LM=0.0] (Act=14.0)
 Aligning File: ../train/mfcc/sample4.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END MATIKAN KIPAS DI DAPUR HIDUPKAN TELEVISI DI DEPAN SENT-END  ==  [360 frames] -61.8923 [Ac=-22281.2 LM=0.0] (Act=15.7)
+SENT-END MATIKAN KIPAS DI DAPUR HIDUPKAN TELEVISI DI DEPAN SENT-END  ==  [360 frames] -61.2191 [Ac=-22038.9 LM=0.0] (Act=14.9)
 Aligning File: ../train/mfcc/sample5.mfc
 Created lattice with 9 nodes / 8 arcs from label file
-SENT-END MATIKAN MAINKAN MATIKAN MAINKAN HIDUPKAN NYALAKAN HIDUPKAN SENT-END  ==  [552 frames] -60.8467 [Ac=-33587.4 LM=0.0] (Act=15.5)
+SENT-END MATIKAN MAINKAN MATIKAN MAINKAN HIDUPKAN NYALAKAN HIDUPKAN SENT-END  ==  [552 frames] -60.3599 [Ac=-33318.7 LM=0.0] (Act=14.8)
 Aligning File: ../train/mfcc/sample6.mfc
 Created lattice with 11 nodes / 10 arcs from label file
-SENT-END HIDUPKAN LAMPU TERAS BUKA PINTU DEPAN TUTUP RUANG KELUARGA SENT-END  ==  [538 frames] -61.5390 [Ac=-33108.0 LM=0.0] (Act=16.1)
+SENT-END HIDUPKAN LAMPU TERAS BUKA PINTU DEPAN TUTUP RUANG KELUARGA SENT-END  ==  [538 frames] -61.2121 [Ac=-32932.1 LM=0.0] (Act=15.4)
 Aligning File: ../train/mfcc/sample7.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END VISI VISUAL FILTER TELEVISI UFUK NYALAKAN ADAKALANYA PUNYA SENT-END  ==  [704 frames] -60.0978 [Ac=-42308.8 LM=0.0] (Act=13.6)
+SENT-END VISI VISUAL FILTER TELEVISI UFUK NYALAKAN ADAKALANYA PUNYA SENT-END  ==  [704 frames] -59.9432 [Ac=-42200.0 LM=0.0] (Act=14.6)
 Aligning File: ../train/mfcc/sample8.mfc
 Created lattice with 12 nodes / 11 arcs from label file
-SENT-END BUKA JENDELA DI RUANG KELUARGA TUTUP PINTU DI KAMAR BELAKANG SENT-END  ==  [969 frames] -58.1146 [Ac=-56313.0 LM=0.0] (Act=7.9)
+SENT-END BUKA JENDELA DI RUANG KELUARGA TUTUP PINTU DI KAMAR BELAKANG SENT-END  ==  [969 frames] -58.1134 [Ac=-56311.9 LM=0.0] (Act=8.7)
 Aligning File: ../train/mfcc/sample9.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END MAINKAN MUSIK DI DAPUR HIDUPKAN LAMPU DI TERAS SENT-END  ==  [819 frames] -58.2995 [Ac=-47747.3 LM=0.0] (Act=7.5)
+SENT-END MAINKAN MUSIK DI DAPUR HIDUPKAN LAMPU DI TERAS SENT-END  ==  [819 frames] -58.1024 [Ac=-47585.9 LM=0.0] (Act=7.9)
 Aligning File: ../train/mfcc/sample10.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END CUCI SUCI PUNYA SAYA TIDUR LINDUR MUNDUR TUTUR SENT-END  ==  [818 frames] -61.5903 [Ac=-50380.9 LM=0.0] (Act=9.2)
+SENT-END CUCI SUCI PUNYA SAYA TIDUR LINDUR MUNDUR TUTUR SENT-END  ==  [818 frames] -61.3657 [Ac=-50197.1 LM=0.0] (Act=9.8)
 Aligning File: ../train/mfcc/sample11.mfc
 Created lattice with 12 nodes / 11 arcs from label file
-SENT-END ULAR MELINGKAR DI ATAS PAGAR TERAS DERAS GERAK PERAS MERAH SENT-END  ==  [978 frames] -61.3785 [Ac=-60028.2 LM=0.0] (Act=7.9)
+SENT-END ULAR MELINGKAR DI ATAS PAGAR TERAS DERAS GERAK PERAS MERAH SENT-END  ==  [978 frames] -61.2791 [Ac=-59931.0 LM=0.0] (Act=8.8)
 Aligning File: ../train/mfcc/sample12.mfc
 Created lattice with 12 nodes / 11 arcs from label file
-SENT-END KAMU TAMU TIMUN IKUT LAMPU LEMBU LIUR LAMA LIPAN DEPAN SENT-END  ==  [1233 frames] -59.0392 [Ac=-72795.4 LM=0.0] (Act=8.5)
+SENT-END KAMU TAMU TIMUN IKUT LAMPU LEMBU LIUR LAMA LIPAN DEPAN SENT-END  ==  [1233 frames] -58.8849 [Ac=-72605.1 LM=0.0] (Act=10.1)
 Aligning File: ../train/mfcc/sample13.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END MAIN MAKAN LIPAN DEPAN BUKA BUKAN BUALAN BADAN SENT-END  ==  [917 frames] -58.8232 [Ac=-53940.9 LM=0.0] (Act=8.0)
+SENT-END MAIN MAKAN LIPAN DEPAN BUKA BUKAN BUALAN BADAN SENT-END  ==  [917 frames] -59.1548 [Ac=-54244.9 LM=0.0] (Act=9.1)
 Aligning File: ../train/mfcc/sample14.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END NYAMAN BUALAN BADAN BADAN RUANG TERANG SENANG ABANG SENT-END  ==  [929 frames] -58.6281 [Ac=-54465.5 LM=0.0] (Act=7.8)
+SENT-END NYAMAN BUALAN BADAN BADAN RUANG TERANG SENANG ABANG SENT-END  ==  [929 frames] -58.7455 [Ac=-54574.6 LM=0.0] (Act=8.3)
 Aligning File: ../train/mfcc/sample15.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END HIDUP MATI NYALA MAIN BUKA TUTUP DEPAN BELAKANG SENT-END  ==  [852 frames] -59.0948 [Ac=-50348.7 LM=0.0] (Act=8.0)
+SENT-END HIDUP MATI NYALA MAIN BUKA TUTUP DEPAN BELAKANG SENT-END  ==  [852 frames] -59.2791 [Ac=-50505.8 LM=0.0] (Act=9.0)
 Aligning File: ../train/mfcc/sample16.mfc
 Created lattice with 9 nodes / 8 arcs from label file
-SENT-END BUMBU DAPUR TIDUR KAMAR LEMBUR UKUR UBUR SENT-END  ==  [800 frames] -59.5677 [Ac=-47654.1 LM=0.0] (Act=7.5)
+SENT-END BUMBU DAPUR TIDUR KAMAR LEMBUR UKUR UBUR SENT-END  ==  [800 frames] -58.7476 [Ac=-46998.1 LM=0.0] (Act=8.9)
 Aligning File: ../train/mfcc/sample17.mfc
 Created lattice with 6 nodes / 5 arcs from label file
-SENT-END MATIKAN LAMPU RUANG TIDUR SENT-END  ==  [428 frames] -59.0757 [Ac=-25284.4 LM=0.0] (Act=7.2)
+SENT-END MATIKAN LAMPU RUANG TIDUR SENT-END  ==  [428 frames] -59.0674 [Ac=-25280.8 LM=0.0] (Act=7.8)
 Aligning File: ../train/mfcc/sample18.mfc
 Created lattice with 7 nodes / 6 arcs from label file
-SENT-END MATIKAN KIPAS DI KAMAR TIDUR SENT-END  ==  [495 frames] -57.8905 [Ac=-28655.8 LM=0.0] (Act=6.7)
+SENT-END MATIKAN KIPAS DI KAMAR TIDUR SENT-END  ==  [495 frames] -57.7180 [Ac=-28570.4 LM=0.0] (Act=7.1)
 Aligning File: ../train/mfcc/sample19.mfc
 Created lattice with 8 nodes / 7 arcs from label file
-SENT-END LAMPU DAMPU MAMPU TUTUP LUPUT COMPANG-CAMPING SENT-END  ==  [740 frames] -59.4772 [Ac=-44013.1 LM=0.0] (Act=9.2)
+SENT-END LAMPU DAMPU MAMPU TUTUP LUPUT COMPANG-CAMPING SENT-END  ==  [740 frames] -58.8002 [Ac=-43512.1 LM=0.0] (Act=8.6)
 Aligning File: ../train/mfcc/sample20.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END TERAS KERAS PERAS DERAS AMPAS TAMU RAMU KAMU SENT-END  ==  [858 frames] -57.8670 [Ac=-49649.9 LM=0.0] (Act=8.4)
+SENT-END TERAS KERAS PERAS DERAS AMPAS TAMU RAMU KAMU SENT-END  ==  [858 frames] -58.2242 [Ac=-49956.3 LM=0.0] (Act=9.4)
 Aligning File: ../train/mfcc/sample21.mfc
 Created lattice with 7 nodes / 6 arcs from label file
-SENT-END BELAKANG SEKARANG KENANG TV ULTRAVIOLET SENT-END  ==  [678 frames] -57.9706 [Ac=-39304.0 LM=0.0] (Act=7.1)
+SENT-END BELAKANG SEKARANG KENANG TV ULTRAVIOLET SENT-END  ==  [678 frames] -57.8742 [Ac=-39238.7 LM=0.0] (Act=8.0)
 Aligning File: ../train/mfcc/sample22.mfc
 Created lattice with 7 nodes / 6 arcs from label file
-SENT-END KELUARGA RAGA OLAHRAGA GARA-GARA HARGA SENT-END  ==  [686 frames] -61.8210 [Ac=-42409.2 LM=0.0] (Act=9.1)
+SENT-END KELUARGA RAGA OLAHRAGA GARA-GARA HARGA SENT-END  ==  [686 frames] -61.5722 [Ac=-42238.5 LM=0.0] (Act=9.7)
 Aligning File: ../train/mfcc/sample23.mfc
 Created lattice with 6 nodes / 5 arcs from label file
-SENT-END TIDUR MUNDUR SADAR SADUR SENT-END  ==  [498 frames] -57.8160 [Ac=-28792.4 LM=0.0] (Act=6.9)
+SENT-END TIDUR MUNDUR SADAR SADUR SENT-END  ==  [498 frames] -57.7942 [Ac=-28781.5 LM=0.0] (Act=7.5)
 Aligning File: ../train/mfcc/sample24.mfc
 Created lattice with 11 nodes / 10 arcs from label file
-SENT-END LAMPU TERAS KIPAS MATIKAN LAMPU NYALAKAN KAMAR MEMAR LIMAS SENT-END  ==  [942 frames] -58.4323 [Ac=-55043.2 LM=0.0] (Act=7.8)
+SENT-END LAMPU TERAS KIPAS MATIKAN LAMPU NYALAKAN KAMAR MEMAR LIMAS SENT-END  ==  [942 frames] -58.3256 [Ac=-54942.7 LM=0.0] (Act=8.3)
 Aligning File: ../train/mfcc/sample25.mfc
 Created lattice with 7 nodes / 6 arcs from label file
-SENT-END MAIN MAKAN LIPAN DEPAN NYAMAN SENT-END  ==  [629 frames] -55.8681 [Ac=-35141.0 LM=0.0] (Act=6.7)
+SENT-END MAIN MAKAN LIPAN DEPAN NYAMAN SENT-END  ==  [629 frames] -56.4005 [Ac=-35475.9 LM=0.0] (Act=8.0)
 Aligning File: ../train/mfcc/sample26.mfc
 Created lattice with 7 nodes / 6 arcs from label file
-SENT-END BUKA BUKAN BUALAN BADAN BASAH SENT-END  ==  [581 frames] -56.9774 [Ac=-33103.9 LM=0.0] (Act=7.0)
+SENT-END BUKA BUKAN BUALAN BADAN BASAH SENT-END  ==  [581 frames] -56.9090 [Ac=-33064.2 LM=0.0] (Act=7.5)
 Aligning File: ../train/mfcc/sample27.mfc
 Created lattice with 8 nodes / 7 arcs from label file
-SENT-END TUTUP BUKA DAN BUKA TUTUP KEMBALI SENT-END  ==  [576 frames] -57.9991 [Ac=-33407.5 LM=0.0] (Act=8.4)
+SENT-END TUTUP BUKA DAN BUKA TUTUP KEMBALI SENT-END  ==  [576 frames] -57.8513 [Ac=-33322.3 LM=0.0] (Act=9.1)
 Aligning File: ../train/mfcc/sample28.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END AMBIL SAMBIL LABIL STABIL MAKAN AKAN TEKAN PEKAN SENT-END  ==  [921 frames] -58.9527 [Ac=-54295.4 LM=0.0] (Act=8.6)
+SENT-END AMBIL SAMBIL LABIL STABIL MAKAN AKAN TEKAN PEKAN SENT-END  ==  [921 frames] -59.2241 [Ac=-54545.4 LM=0.0] (Act=10.3)
 Aligning File: ../train/mfcc/sample29.mfc
 Created lattice with 7 nodes / 6 arcs from label file
-SENT-END MAMPU LAMPU LIMPA LAMA LARA SENT-END  ==  [654 frames] -56.2362 [Ac=-36778.5 LM=0.0] (Act=7.8)
+SENT-END MAMPU LAMPU LIMPA LAMA LARA SENT-END  ==  [654 frames] -56.3076 [Ac=-36825.2 LM=0.0] (Act=8.6)
 Aligning File: ../train/mfcc/sample30.mfc
 Created lattice with 7 nodes / 6 arcs from label file
-SENT-END KIPAS LIBAS IMPAS TERAS LEPAS SENT-END  ==  [642 frames] -57.2392 [Ac=-36747.6 LM=0.0] (Act=6.0)
+SENT-END KIPAS LIBAS IMPAS TERAS LEPAS SENT-END  ==  [642 frames] -57.3039 [Ac=-36789.1 LM=0.0] (Act=6.6)
 Aligning File: ../train/mfcc/sample31.mfc
 Created lattice with 7 nodes / 6 arcs from label file
-SENT-END TV TELEVISI JENDELA KAMAR TIDUR SENT-END  ==  [608 frames] -58.3186 [Ac=-35457.7 LM=0.0] (Act=6.6)
+SENT-END TV TELEVISI JENDELA KAMAR TIDUR SENT-END  ==  [608 frames] -58.6095 [Ac=-35634.6 LM=0.0] (Act=7.3)
 Aligning File: ../train/mfcc/sample32.mfc
 Created lattice with 7 nodes / 6 arcs from label file
-SENT-END BUKA PINTU DI RUANG KELUARGA SENT-END  ==  [500 frames] -56.7718 [Ac=-28385.9 LM=0.0] (Act=7.5)
+SENT-END BUKA PINTU DI RUANG KELUARGA SENT-END  ==  [500 frames] -56.3715 [Ac=-28185.7 LM=0.0] (Act=8.0)
 Aligning File: ../train/mfcc/sample33.mfc
 Created lattice with 7 nodes / 6 arcs from label file
-SENT-END NYALAKAN PINTU DI TERAS BELAKANG SENT-END  ==  [494 frames] -56.5428 [Ac=-27932.1 LM=0.0] (Act=7.2)
+SENT-END NYALAKAN PINTU DI TERAS BELAKANG SENT-END  ==  [494 frames] -56.4400 [Ac=-27881.4 LM=0.0] (Act=7.7)
 Aligning File: ../train/mfcc/sample34.mfc
 Created lattice with 7 nodes / 6 arcs from label file
-SENT-END MAINKAN MUSIK DI KAMAR DEPAN SENT-END  ==  [434 frames] -58.9179 [Ac=-25570.4 LM=0.0] (Act=7.7)
+SENT-END MAINKAN MUSIK DI KAMAR DEPAN SENT-END  ==  [434 frames] -58.8251 [Ac=-25530.1 LM=0.0] (Act=8.1)
 Aligning File: ../train/mfcc/sample35.mfc
 Created lattice with 10 nodes / 9 arcs from label file
-SENT-END BELAJAR BELAKANG BELATUNG BELANG BEGAWAN BENTANG DI DEPAN SENT-END  ==  [848 frames] -56.9896 [Ac=-48327.2 LM=0.0] (Act=7.1)
+SENT-END BELAJAR BELAKANG BELATUNG BELANG BEGAWAN BENTANG DI DEPAN SENT-END  ==  [848 frames] -56.9999 [Ac=-48335.9 LM=0.0] (Act=7.6)
 Aligning File: ../train/mfcc/sample36.mfc
 Created lattice with 12 nodes / 11 arcs from label file
-SENT-END WAKTU WAKIL WARGA WANITA WAKTU WARGA KANTUK TUKANG DI BELAKANG SENT-END  ==  [881 frames] -59.8800 [Ac=-52754.3 LM=0.0] (Act=7.0)
+SENT-END WAKTU WAKIL WARGA WANITA WAKTU WARGA KANTUK TUKANG DI BELAKANG SENT-END  ==  [881 frames] -60.0361 [Ac=-52891.8 LM=0.0] (Act=7.6)
 Aligning File: ../train/mfcc/sample37.mfc
 Created lattice with 12 nodes / 11 arcs from label file
-SENT-END TULANG TILANG KAPUR MUKA WARGA GALANG LAMPU TAMU DI KAMAR SENT-END  ==  [894 frames] -57.1751 [Ac=-51114.5 LM=0.0] (Act=7.8)
+SENT-END TULANG TILANG KAPUR MUKA WARGA GALANG LAMPU TAMU DI KAMAR SENT-END  ==  [894 frames] -57.2186 [Ac=-51153.4 LM=0.0] (Act=8.4)
 Aligning File: ../train/mfcc/sample38.mfc
 Created lattice with 11 nodes / 10 arcs from label file
-SENT-END TUTUP TV TAMU TIDUR TELEVISI DEPAN BELAKANG NYALAKAN MATIKAN SENT-END  ==  [1013 frames] -58.7994 [Ac=-59563.8 LM=0.0] (Act=7.8)
+SENT-END TUTUP TV TAMU TIDUR TELEVISI DEPAN BELAKANG NYALAKAN MATIKAN SENT-END  ==  [1013 frames] -59.3823 [Ac=-60154.3 LM=0.0] (Act=8.7)
 Aligning File: ../train/mfcc/sample39.mfc
 Created lattice with 13 nodes / 12 arcs from label file
-SENT-END PINTU LAMPU TAMU DI KAMAR TIDUR DALAM DAPUR KAPUR MUKA WARGA SENT-END  ==  [1110 frames] -58.0074 [Ac=-64388.2 LM=0.0] (Act=8.0)
+SENT-END PINTU LAMPU TAMU DI KAMAR TIDUR DALAM DAPUR KAPUR MUKA WARGA SENT-END  ==  [1110 frames] -57.9252 [Ac=-64297.0 LM=0.0] (Act=8.6)
 Aligning File: ../train/mfcc/sample40.mfc
 Created lattice with 12 nodes / 11 arcs from label file
-SENT-END TIDUR DAPUR MAKAN DEPAN MAINKAN NYALAKAN HIDUPKAN DAPUR DI TIDUR SENT-END  ==  [1010 frames] -59.0263 [Ac=-59616.5 LM=0.0] (Act=7.8)
+SENT-END TIDUR DAPUR MAKAN DEPAN MAINKAN NYALAKAN HIDUPKAN DAPUR DI TIDUR SENT-END  ==  [1010 frames] -58.9176 [Ac=-59506.8 LM=0.0] (Act=8.4)
 
 HTK Configuration Parameters[10]
   Module/Tool     Parameter                  Value
