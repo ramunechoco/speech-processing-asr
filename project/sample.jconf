@@ -203,7 +203,7 @@
 ######################################################################
 #### Acoustic Analysis
 ######################################################################
--smpFreq 44100		# sampling rate (Hz)
+-smpFreq 16000		# sampling rate (Hz)
 #-smpPeriod 625		# sampling period (ns) (= 10000000 / smpFreq)
 #-fsize 400		# window size (samples)
 #-fshift 160		# frame shift (samples)
@@ -261,3 +261,5 @@
 #-C jconffile		# expand other jconf file in its place
 
 ################################################################# end of file
+-logfile julius.log
+# -quiet
