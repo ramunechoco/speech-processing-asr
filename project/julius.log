@@ -282,48 +282,92 @@ Stat: adin_portaudio: latency was set to 0.000000 msec
 WARNING: 00 _default: hypothesis stack exhausted, terminate search now
 STAT: 00 _default: 0 sentences have been found
 WARNING: 00 _default: got no candidates, search failed
-STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 118
-STAT: skip CMN parameter update since last input was invalid
-
-### Recognition: 2nd pass (RL heuristic best-first)
-STAT: 00 _default: 19 generated, 19 pushed, 12 nodes popped in 121
-
-### Recognition: 2nd pass (RL heuristic best-first)
-WARNING: 00 _default: hypothesis stack exhausted, terminate search now
-STAT: 00 _default: 0 sentences have been found
-WARNING: 00 _default: got no candidates, search failed
-STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 88
-STAT: skip CMN parameter update since last input was invalid
-
-### Recognition: 2nd pass (RL heuristic best-first)
-WARNING: 00 _default: hypothesis stack exhausted, terminate search now
-STAT: 00 _default: 0 sentences have been found
-WARNING: 00 _default: got no candidates, search failed
 STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 79
 STAT: skip CMN parameter update since last input was invalid
 
 ### Recognition: 2nd pass (RL heuristic best-first)
-STAT: 00 _default: 18 generated, 18 pushed, 12 nodes popped in 112
-
-### Recognition: 2nd pass (RL heuristic best-first)
-STAT: 00 _default: 23 generated, 23 pushed, 13 nodes popped in 109
-
-### Recognition: 2nd pass (RL heuristic best-first)
-STAT: 00 _default: 18 generated, 18 pushed, 12 nodes popped in 109
-
-### Recognition: 2nd pass (RL heuristic best-first)
-STAT: 00 _default: 20 generated, 20 pushed, 12 nodes popped in 151
-
-### Recognition: 2nd pass (RL heuristic best-first)
-STAT: 00 _default: 18 generated, 18 pushed, 12 nodes popped in 109
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+STAT: 00 _default: 0 sentences have been found
+WARNING: 00 _default: got no candidates, search failed
+STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 52
+STAT: skip CMN parameter update since last input was invalid
 
 ### Recognition: 2nd pass (RL heuristic best-first)
 WARNING: 00 _default: hypothesis stack exhausted, terminate search now
 STAT: 00 _default: 0 sentences have been found
 WARNING: 00 _default: got no candidates, search failed
-STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 91
+STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 55
 STAT: skip CMN parameter update since last input was invalid
 
 ### Recognition: 2nd pass (RL heuristic best-first)
-STAT: 00 _default: 13 generated, 13 pushed, 11 nodes popped in 100
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+STAT: 00 _default: 0 sentences have been found
+WARNING: 00 _default: got no candidates, search failed
+STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 82
+STAT: skip CMN parameter update since last input was invalid
+
+### Recognition: 2nd pass (RL heuristic best-first)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+STAT: 00 _default: 0 sentences have been found
+WARNING: 00 _default: got no candidates, search failed
+STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 115
+STAT: skip CMN parameter update since last input was invalid
+
+### Recognition: 2nd pass (RL heuristic best-first)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+STAT: 00 _default: 0 sentences have been found
+WARNING: 00 _default: got no candidates, search failed
+STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 103
+STAT: skip CMN parameter update since last input was invalid
+
+### Recognition: 2nd pass (RL heuristic best-first)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+STAT: 00 _default: 0 sentences have been found
+WARNING: 00 _default: got no candidates, search failed
+STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 94
+STAT: skip CMN parameter update since last input was invalid
+
+### Recognition: 2nd pass (RL heuristic best-first)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+STAT: 00 _default: 0 sentences have been found
+WARNING: 00 _default: got no candidates, search failed
+STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 76
+STAT: skip CMN parameter update since last input was invalid
+
+### Recognition: 2nd pass (RL heuristic best-first)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+STAT: 00 _default: 0 sentences have been found
+WARNING: 00 _default: got no candidates, search failed
+STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 94
+STAT: skip CMN parameter update since last input was invalid
+
+### Recognition: 2nd pass (RL heuristic best-first)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+STAT: 00 _default: 0 sentences have been found
+WARNING: 00 _default: got no candidates, search failed
+STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 52
+STAT: skip CMN parameter update since last input was invalid
+
+### Recognition: 2nd pass (RL heuristic best-first)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+STAT: 00 _default: 0 sentences have been found
+WARNING: 00 _default: got no candidates, search failed
+STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 121
+STAT: skip CMN parameter update since last input was invalid
+
+### Recognition: 2nd pass (RL heuristic best-first)
+STAT: 00 _default: 23 generated, 23 pushed, 13 nodes popped in 148
+
+### Recognition: 2nd pass (RL heuristic best-first)
+STAT: 00 _default: 13 generated, 13 pushed, 11 nodes popped in 127
+
+### Recognition: 2nd pass (RL heuristic best-first)
+STAT: 00 _default: 18 generated, 18 pushed, 12 nodes popped in 124
+
+### Recognition: 2nd pass (RL heuristic best-first)
+WARNING: 00 _default: hypothesis stack exhausted, terminate search now
+STAT: 00 _default: 0 sentences have been found
+WARNING: 00 _default: got no candidates, search failed
+STAT: 00 _default: 0 generated, 0 pushed, 0 nodes popped in 106
+STAT: skip CMN parameter update since last input was invalid
 

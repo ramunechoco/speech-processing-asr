@@ -13,7 +13,6 @@
 # 4) Syntax of each arguments are same as corresponding command options.
 # 5) The commented-out values in this file are default values in Julian.
 #
-
 ######################################################################
 #### Files
 ######################################################################
@@ -258,7 +257,7 @@
 ######################################################################
 #-help			# output help and exit
 #-setting		# output engine configuration and exit
-#-C jconffile		# expand other jconf file in its place
+#-C jconffile		# expand other jconf file in its placev
 
 ################################################################# end of file
 -logfile julius.log
