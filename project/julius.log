@@ -1,0 +1,54 @@
+STAT: jconf successfully finalized
+STAT: *** loading AM00 _default
+Stat: init_phmm: Reading in HMM definition
+Stat: rdhmmdef: ascii format HMM definition
+Stat: rdhmmdef: limit check passed
+Stat: check_hmm_restriction: an HMM with several arcs from initial state found: "sp"
+Stat: rdhmmdef: this HMM requires multipath handling at decoding
+Stat: rdhmmdef: no <SID> embedded
+Stat: rdhmmdef: assign SID by the order of appearance
+Stat: init_phmm: defined HMMs:    61
+Stat: init_phmm: loading ascii hmmlist
+Stat: init_phmm: logical names:   377 in HMMList
+Stat: init_phmm: base phones:    28 used in logical
+Stat: init_phmm: finished reading HMM definitions
+STAT: m_fusion: force multipath HMM handling by user request
+STAT: making pseudo bi/mono-phone for IW-triphone
+Stat: hmm_lookup: 164 pseudo phones are added to logical HMM list
+STAT: *** AM00 _default loaded
+STAT: *** loading LM00 _default
+STAT: reading [sample.dfa] and [sample.dict]...
+Error: voca_load_htkdict: line 8: triphone "m-a+i" not found
+Error: voca_load_htkdict: line 8: triphone "a-i+n" not found
+Error: voca_load_htkdict: line 8: triphone "i-n+k" not found
+Error: voca_load_htkdict: the line content was: 2	[MAINKAN]	m a i n k a n
+Error: voca_load_htkdict: line 14: triphone "t-i+v" not found
+Error: voca_load_htkdict: line 14: triphone "i-v+i" not found
+Error: voca_load_htkdict: line 14: triphone "v-i+*" or biphone "v-i" not found
+Error: voca_load_htkdict: the line content was: 4	[TV]	t i v i
+Error: voca_load_htkdict: line 15: triphone "l-e+v" not found
+Error: voca_load_htkdict: line 15: triphone "e-v+i" not found
+Error: voca_load_htkdict: line 15: triphone "v-i+s" not found
+Error: voca_load_htkdict: the line content was: 4	[TELEVISI]	t eh l e v i s i
+Error: voca_load_htkdict: line 20: triphone "r-u+w" not found
+Error: voca_load_htkdict: line 20: triphone "w-a+ng" not found
+Error: voca_load_htkdict: the line content was: 5	[RUANG]	r u w a ng
+Error: voca_load_htkdict: line 23: triphone "l-u+w" not found
+Error: voca_load_htkdict: the line content was: 6	[KELUARGA]	k e l u w a r g a
+Error: voca_load_htkdict: begin missing phones
+Error: voca_load_htkdict: a-i+n
+Error: voca_load_htkdict: e-v+i
+Error: voca_load_htkdict: i-n+k
+Error: voca_load_htkdict: i-v+i
+Error: voca_load_htkdict: l-e+v
+Error: voca_load_htkdict: l-u+w
+Error: voca_load_htkdict: m-a+i
+Error: voca_load_htkdict: r-u+w
+Error: voca_load_htkdict: t-i+v
+Error: voca_load_htkdict: v-i+* or biphone v-i
+Error: voca_load_htkdict: v-i+s
+Error: voca_load_htkdict: w-a+ng
+Error: voca_load_htkdict: end missing phones
+Error: init_voca: error in reading sample.dict: 5 words failed out of 21 words
+ERROR: failed to read dictionary "sample.dict"
+ERROR: m_fusion: some error occured in reading grammars
