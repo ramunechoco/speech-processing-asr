@@ -12,7 +12,7 @@
 
 # VoxForge configurations:
 -v ngram.dict      # pronunciation dictionary
--nlr lm/bg1
+-nrl lm/ug
 -h ../project/hmm15/hmmdefs    # acoustic HMM (ascii or Julius binary)
 -hlist ../project/tiedlist     # HMMList to map logical phone to physical
 -smpFreq 16000	    # sampling rate (Hz)
@@ -32,6 +32,6 @@
 -lv 4000			# level threshold (0-32767)
 
 # comment these out for debugging:
--logfile julius.log
+# -logfile julius.log
 -quiet
 # !!!!!!
