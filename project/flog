@@ -1,46 +1,41 @@
-WARNING: no script file ../lexicon/lexicon.txt.ded
+WARNING: no script file ../lexicon/indo_dict.txt.ded
 
 Dictionary Usage Statistics
 ---------------------------
   Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
- lexicon.txt     30342      30342      30342      30342
-    dict-tri     30342      30342      30342      30342
+indo_dict.tx       119        119        119        119
+    dict-tri       119        119        119        119
 
-30342 words required, 0 missing
+119 words required, 0 missing
 
 New Phone Usage Counts
 ---------------------
-  1. a     : 27948
-  2. sp    : 30342
-  3. b     :  5068
-  4. d     :  5077
-  5. i     : 18361
-  6. h     :  3123
-  7. ##    : 18680
-  8. m     :  8567
-  9. n     : 10332
- 10. k     : 11680
- 11. t     : 11957
- 12. l     : 10200
- 13. u     :  9551
- 14. s     : 12844
- 15. ng    :  4675
- 16. g     :  4137
- 17. r     : 13427
- 18. o     : 10860
- 19. c     :  1883
- 20. f     :  2713
- 21. j     :  1721
- 22. p     :  6536
- 23. y     :   673
- 24. w     :  1190
- 25. ny    :   289
- 26. z     :   334
- 27. kh    :   144
- 28. sy    :   131
- 29. TAB-SPAN" :     1
- 30. TAB-SPAN"-STYLE="WHITE-SPACE: :     1
- 31. SPACE:-PRE;"> :     1
- 32. </SPAN>"V," :     1
+  1. a     :   135
+  2. b     :    25
+  3. ng    :    17
+  4. sp    :   119
+  5. d     :    17
+  6. k     :    33
+  7. l     :    46
+  8. ny    :     5
+  9. n     :    29
+ 10. m     :    36
+ 11. i     :    39
+ 12. p     :    23
+ 13. s     :    24
+ 14. t     :    30
+ 15. h     :     6
+ 16. e     :    27
+ 17. g     :    11
+ 18. w     :     6
+ 19. j     :     2
+ 20. r     :    44
+ 21. u     :    61
+ 22. c     :     5
+ 23. o     :     3
+ 24. f     :     7
+ 25. eh    :     5
+ 26. ay    :     2
+ 27. y     :     1
 
 Dictionary dict-tri created
